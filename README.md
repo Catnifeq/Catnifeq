@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello, I'm Kamil 👩🏻‍🎨
 
-<!--
-**Catnifeq/Catnifeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently started programming, I'm new on it. I want to be a game developer one day! ᕦʕ •`ᴥ•´ʔᕤ
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="https://www.youtube.com/channel/UCdE3vDb8ii1T865Djec1wYA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Catnifeq">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
